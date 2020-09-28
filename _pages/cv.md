@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Ye Yang's CV](https://yyy21987.github.io/files/CV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
